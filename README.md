@@ -28,6 +28,7 @@ Com thirdweb para contratos.
 - Contrato com propostas
 - Contrato que tira as vantagens do admin. Somente por meio de votação é possível criar novos tokens.
 
+Link https://moving-dao-app.vercel.app/
 
 #
 To get started with this project, clone the repo and:
