@@ -4,6 +4,8 @@ Neste aplicativo você pode conectar sua carteira → criar uma NFT de membro �
 
 Com thirdweb para contratos.
 
+![Screenshot_9](https://user-images.githubusercontent.com/29384128/191643735-461a42ca-3646-48ab-acd8-289b9c3dcd23.png)
+
 ## **Detalhes**
 
 - O site verifica se o usuário já é membro, se for mostra painel com informações e permite votar nas propostas. Se não permite ser membro e reivindicar a NFT;
