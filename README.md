@@ -1,8 +1,8 @@
-# DAO for physical activity group
+# DAO para grupos de atividade física
 
-In this app you can connect your wallets → create a membership NFT → receive a token airdrop → and vote on proposals.
+Neste aplicativo você pode conectar sua carteira → criar uma NFT de membro → receber um token de airdrop → e votar nas propostas.
 
-With thirdweb for contracts.
+Com thirdweb para contratos.
 
 ## **Detalhes**
 
